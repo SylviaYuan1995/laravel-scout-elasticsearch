@@ -1,5 +1,5 @@
 {
-    "name": "sylvia/laravel-scout-elasticsearch",
+    "name": "matchish/laravel-scout-elasticsearch",
     "description": "Search among multiple models with ElasticSearch and Laravel Scout",
     "version": "4.10",
     "keywords": [
